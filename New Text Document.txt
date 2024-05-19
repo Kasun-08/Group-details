@@ -1,0 +1,95 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+<table cellpadding="10px" style="width:100%" height="100" border="1" bgcolor="#FFE4B5"> 
+  <tr>
+    <th><h1>Kasun Madhawa Kanakarathneeee<h1></th>
+  </tr> 
+ </table>
+
+<br>
+<body>
+
+<table cellspacing="1px" cellpadding="5px" style="width:100%" height="1000px" border="1" bgcolor="#FFE4B5" > 
+<tr>
+    <th rowspan="3" style="width:30%"><img src="C:\Users\HP\Desktop\Web Prog 1\web programing 1 project\Kasun2024-04-02 at 11.57.16 PM.jpeg" width="400" height="480"></th>
+    <th><h1>Country</h1></th>
+	<td><h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sri Lanka</h3></td>	
+  </tr>
+<tr>
+    <th><h1>Educational Background</h1></th>
+    <td> <ul>
+			<li><h3>Master of Science in Information Technology</h3><p>The Kyoto College of Graduate Studies for Informatics<br>Kyoto, Japan.<br>2024 - Present<p>
+			</li>
+			<li><h3>Bachelor of Science in Physical Sciences</h3><p>University of Sri Jayewardenapura<br>Nugegoda,Srilanka.<br>2015-2019</p></li>
+			
+		</ul>
+	</td>
+  </tr>
+  
+  <tr>
+    <th style="width:35%"><h1>Work Experience</h1></th>
+    <td> <ul>
+			<li><h3>Body Shop Service Advisor</h3><p>KAR Clean Body Shop<br>Borelesgamuwa,Sri Lanka.<br>2021-2023<p></li>
+			
+		</ul>
+  </tr>
+  
+ <tr>
+    <td rowspan ="7">I am driven by a strong sense of purpose and a desire to make a positive impact. Whether it's through developing new skills, taking on leadership roles, or collaborating with others, I am always eager to contribute meaningfully and achieve results.With a proactive approach to personal and professional development, I am constantly seeking opportunities to expand my knowledge and skills. I believe that with passion, perseverance, and a growth mindset, I can achieve anything I set my mind to</td>
+    <th>E-Mail</th>
+    <td><p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank ">madhwakanakarathne@gmail.com</p></a></td>
+  </tr>
+  
+  <tr>
+    <th rowspan ="3">Social</th>
+    <th rowspan= "3"><a href="https://www.facebook.com/kasun.kanakaratne" target="_blank "><img src="C:\Users\HP\Desktop\Web Prog 1\web programing 1 project\Facebook_icon.jpg"  alt="Photo of fb mark" width="50px" height="50px"></a> &nbsp;&nbsp;
+					<a href="https://www.instagram.com/" target="_blank "><img src="C:\Users\HP\Desktop\Web Prog 1\web programing 1 project\Instagram_icon.jpg"  alt="Photo of insta mark" width="50px" height="50px"></a>&nbsp;&nbsp;
+					<a href="https://www.linkedin.com/" target="_blank "><img src="C:\Users\HP\Desktop\Web Prog 1\web programing 1 project\linkedin_icon.jpg"  alt="Photo of LI mark" width="50px" height="50px"></a>&nbsp;&nbsp;
+					<a href="https://twitter.com/" target="_blank "><img src="C:\Users\HP\Desktop\Web Prog 1\web programing 1 project\twitter_icon.jpg"  alt="Photo of twitter mark" width="50px" height="50px"></a>
+	</th>
+  </tr>
+  
+  <tr>
+    
+  </tr>
+  
+  <tr>
+   
+  </tr>
+  
+  <tr>
+    <th rowspan="3">Location</th>
+    <th rowspan="3"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d417837.9285899948!2d135.38922080310545!3d35.09775008609111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6001a8d6cd3cc3f1%3A0xc0961d366bbb1d3d!2sKyoto!5e0!3m2!1sen!2sjp!4v1715057139672!5m2!1sen!2sjp" width="450" height="150" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></th>	
+  </tr>
+  
+  <tr>	
+  </tr>
+  
+  <tr>
+  </tr>
+  <tr>
+    <th colspan="3">Media</th>
+
+  </tr>
+  <tr>
+    <th>Rocky i am gonna fly now<audio controls autoplay><source src="C:\Users\HP\Desktop\Web Prog 1\web programing 1 project\Rocky - Bill Conti - Gonna Fly Now.mp3" type="audio/ogg"></audio><br>
+					Alawanthi - Jayasri<audio controls autoplay><source src="C:\Users\HP\Desktop\Web Prog 1\web programing 1 project\Alawanthi - Jayasri.mp3" type="audio/ogg"></audio></th>
+    <th>Fast Five <br> <iframe width="450" height="315" src="https://www.youtube.com/embed/vcn2GOuZCKI?si=-2-VEl_Gcai6xL7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></th>
+	<th>The Last Samurai <iframe width="450" height="315" src="https://www.youtube.com/embed/T50_qHEOahQ?si=Az9-YeTWWkmlcBNL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></th>	
+  </tr>
+  <tr>
+  </tr>
+  
+ 
+</table>
+
+
+
+
+</body>
+</html>
